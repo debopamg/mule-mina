@@ -203,21 +203,6 @@
             <version>2.0.4</version>
             <type>jar</type>
         </dependency>
-        <dependency>
-            <groupId>com.twopiradian.genesis</groupId>
-            <artifactId>genesis-container</artifactId>
-            <version>1.0</version>
-        </dependency>
-        <dependency>
-            <groupId>com.twopiradian.genesis</groupId>
-            <artifactId>genesis-socket-connector-server</artifactId>
-            <version>1.0</version>
-        </dependency>
-        <dependency>
-            <groupId>com.twopiradian.genesis</groupId>
-            <artifactId>genesis-socket-connector-message</artifactId>
-            <version>1.0</version>
-        </dependency>
     </dependencies>
 
     <repositories>
