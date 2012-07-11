@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mule xmlns="http://www.mulesoft.org/schema/mule/core"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:mina="http://www.mulesoft.org/schema/mule/mina"
+    xsi:schemaLocation="
+       http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/3.2/mule.xsd
+       http://www.mulesoft.org/schema/mule/mina http://www.mulesoft.org/schema/mule/mina/3.2/mule-mina.xsd">
+
+    <mina:connector name="minaConnector">
+        <!-- TODO Add connector specific properties here and then assert that 
+             they have been set in org.mule.transport.mina.MinaNamespaceHandlerTestCase -->
+    </mina:connector>
+</mule>
